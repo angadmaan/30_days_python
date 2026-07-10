@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Python%203.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Made%20on-macOS-black?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -27,16 +27,15 @@ Every folder here represents a day of focused, hands-on work. No copy-pasted sol
 
 | Day | Focus Area | Status |
 |:---:|---|:---:|
-| 01 | Variables & Data Types | ⬜ |
-| 02 | Strings, Lists & Tuples | ⬜ |
-| 03 | Dictionaries & Conditionals | ⬜ |
+| 01 | Variables & Data Types | ✅ |
+| 02 | Strings, Lists & Tuples | ✅ |
+| 03 | Dictionaries & Conditionals | ✅|
 | 04 | Loops, Functions & Recursion | ⬜ |
 | 05 | File Handling, OOP + Mini Project | ⬜ |
 | 06 | Inheritance + Mini Project | ⬜ |
 | 07 | Advanced Python Concepts | ⬜ |
 | 08 | Capstone Projects | ⬜ |
 
-*(Check these off as I go — updated after every session, not before.)*
 
 ---
 
@@ -64,7 +63,7 @@ A number-guessing game applying loops, randomization, and user input handling.
 
 ## 🧰 Tech Stack
 
-- **Language:** Python 3.x
+- **Language:** Python 3
 - **Editor:** Visual Studio Code
 - **Version Control:** Git & GitHub
 - **OS:** macOS (Apple Silicon)
