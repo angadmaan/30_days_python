@@ -89,7 +89,7 @@ new_string = my_string.replace('Python', 'Java')
 
 print(new_string)  # Output: Hello, Java!
 
-# 7. capalize(): This function capitalizes the first character of a string and converts the rest to lowercase.
+# 7. capitalize(): This function capitalizes the first character of a string and converts the rest to lowercase.
 
 capitalized_string = my_string.capitalize()
 
