@@ -1,8 +1,8 @@
 # Dictionary in python 
 
-# A dictionary is a collection of key-value pairs. Each key is unique and maps to a value.
+# A dictionary is a collection of key-value pairs, each key is unique and maps to a value.
 
-# Creating a dictionary
+# Creating a dictionary 
 
 d = {} # Empty dictionary
 

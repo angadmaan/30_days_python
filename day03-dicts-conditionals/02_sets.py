@@ -38,6 +38,6 @@ s1 = {3, 5 , 7, 8, 10}
 
 s2 = {12, 3, 6, 8, 14}
 
-print(s1.union(s2))
+print(s1.union(s2)) # Output: 3, 5, 6, 7, 8, 10, 12, 14
 
-print(s1.intersection(s2))
+print(s1.intersection(s2)) # Output: 3, 8
