@@ -1,12 +1,14 @@
-# Write a program to calculate the factorial of a given number using for loop.
+# Write a program to find the sum of first n natural numbers using while loop.
 
-n = int(input("Enter your number: "))
+num = int(input("Enter your number: "))
 
-factorial = 1
+i = 1
+sum = 0 
 
-if n < 0:
-    print("Factorial of a negative number does not exist.")
-else:
-    for i in range(1, n + 1):
-        factorial *= i
-    print("Factorial of", n, "is", factorial)
+while(i<=num):
+    sum += i
+    i+=1
+
+print(sum)
+
+

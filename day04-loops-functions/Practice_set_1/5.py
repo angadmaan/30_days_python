@@ -1,13 +1,12 @@
-# Write a program to print the following star pattern.
-
-#   *
-#  * *
-# * * * * * for n = 3
+# Write a program to calculate the factorial of a given number using for loop.
 
 n = int(input("Enter your number: "))
 
-for i in range(1, n + 1):
-    if i == n:
-        print("*" * (2 * n - 1))
-    else:
-        print(" " * (n - i) + "* " * i)
+factorial = 1
+
+if n < 0:
+    print("Factorial of a negative number does not exist.")
+else:
+    for i in range(1, n + 1):
+        factorial *= i
+    print("Factorial of", n, "is", factorial)

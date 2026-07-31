@@ -1,6 +1,6 @@
 # Write a program to greet all the person names stored in a list 'I' and which starts with S.
 
-I = ["Rohan", "Soham", "Sachin","Rahul"]
+I = ["Rohan", "Soham", "Sachin","Rahul","Sooryavanshi"]
 
 for name in I:
     if(name.startswith("S")):

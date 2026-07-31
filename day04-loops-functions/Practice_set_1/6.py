@@ -1,6 +1,13 @@
-# Write a program to print the multiplication table of a number using for loops in reversed order.
+# Write a program to print the following star pattern.
 
-n = int(input("Enter the number for which you want the multiplication table: "))
+#   *
+#  * *
+# * * * * * for n = 3
 
-for i in range(10, 0, -1):
-    print(f"{n} * {i} = {n * i}")
+n = int(input("Enter your number: "))
+
+for i in range(1, n + 1):
+    if i == n:
+        print("*" * (2 * n - 1))
+    else:
+        print(" " * (n - i) + "* " * i)
