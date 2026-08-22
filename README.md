@@ -30,11 +30,11 @@ Every folder here represents a day of focused, hands-on work. No copy-pasted sol
 | 01 | Variables & Data Types | ✅ |
 | 02 | Strings, Lists & Tuples | ✅ |
 | 03 | Dictionaries & Conditionals | ✅|
-| 04 | Loops, Functions & Recursion | ⬜ |
-| 05 | File Handling, OOP + Mini Project | ⬜ |
-| 06 | Inheritance + Mini Project | ⬜ |
-| 07 | Advanced Python Concepts | ⬜ |
-| 08 | Capstone Projects | ⬜ |
+| 04 | Loops, Functions & Recursion | ✅ |
+| 05 | File Handling, OOP + Mini Project | ✅ |
+| 06 | Inheritance + Mini Project | ✅ |
+| 07 | Advanced Python Concepts | ✅ |
+| 08 | Capstone Projects | ✅ |
 
 
 ---
