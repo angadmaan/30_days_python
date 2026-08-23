@@ -1,0 +1,11 @@
+--> Ram is a volatile memory, which means that it loses its contents when the computer is turned off. 
+
+--> To Store data permanently, we need to use a non-volatile memory like a hard disk or SSD. In Python, we can use file handling to read and write data to files on the disk.
+
+--> A python program can talk to the file by either reading content from it or writing content to it. 
+
+--> Types of files in Python:
+
+1. Text files: These files contain plain text and can be opened and edited using a text editor. They usually have a .txt extension.
+2. Binary files: These files contain data in a binary format and can be opened and edited using specialized software. They usually have a .jpg .bin or .dat extension. 
+
